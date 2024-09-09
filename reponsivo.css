@@ -1,0 +1,16 @@
+@media(max-width: 850px){
+    .item .fruit{
+        top: 50%;
+        width: 700px;
+    }
+    .item .refri{
+        width: 450px;
+    }
+    .title{
+       font-size: 7rem;
+    }
+    #prev, #next{
+        top: 70%;
+    }
+
+}
